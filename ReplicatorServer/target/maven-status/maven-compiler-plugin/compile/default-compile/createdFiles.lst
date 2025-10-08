@@ -1,0 +1,6 @@
+pt/ulisboa/tecnico/tuplespaces/replicatorserver/domain/Tuple.class
+pt/ulisboa/tecnico/tuplespaces/replicatorserver/domain/ReplicatorServerState.class
+pt/ulisboa/tecnico/tuplespaces/replicatorserver/ServiceImpl.class
+pt/ulisboa/tecnico/tuplespaces/replicatorserver/HeaderServerInterceptor.class
+pt/ulisboa/tecnico/tuplespaces/replicatorserver/Debug.class
+pt/ulisboa/tecnico/tuplespaces/replicatorserver/ReplicatorServerMain.class

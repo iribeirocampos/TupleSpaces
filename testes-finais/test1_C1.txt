@@ -1,0 +1,5 @@
+put <1>
+take <1> 0 0 5
+sleep 5
+put <1>
+exit
